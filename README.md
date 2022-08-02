@@ -1,1 +1,1 @@
-# tensorflow_with_jose_portilla
+# Repository to save files from a Jose Portilla Tensorflow course
